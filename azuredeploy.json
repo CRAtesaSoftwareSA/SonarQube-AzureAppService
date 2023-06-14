@@ -37,7 +37,7 @@
             "type": "string"
         },
         "repoUrl": {
-            "defaultValue": "https://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@github.com/CRAtesaSoftwareSA/SonarQube-AzureAppService",
+            "defaultValue": "https://github.com/CRAtesaSoftwareSA/SonarQube-AzureAppService",
             "type": "string"
         },
         "branch": {
